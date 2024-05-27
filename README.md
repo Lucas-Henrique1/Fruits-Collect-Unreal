@@ -1,4 +1,4 @@
-# Meu-Jogo-unreal
+# Fruits-Collect
 
  Um jogo simples onde você tem que pegar frutas e evitar as bombas pelo caminho. É fácil de jogar e perfeito para passar o tempo!
 

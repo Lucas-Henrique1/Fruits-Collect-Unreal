@@ -40,15 +40,3 @@ Com o projeto aberto, clique em Play para rodar o jogo diretamente na Unreal Eng
 
 ![Capturar - Copia (2)](https://github.com/Lucas-Henrique1/Meu-Jogo-Unreal/assets/84040222/3db4d84f-8841-4499-a0cc-c81f5cafb9f5)
 
-Para jogar a versão compilada do jogo sem precisar da Unreal Engine, baixe a build através do link abaixo:
-
-https://drive.google.com/file/d/1l2U6irtExA7PXxCdK1eZ29IttmKB9Vfs/view
-
-- Baixar e Descompactar:
-
-Baixe o arquivo .zip e descompacte-o em uma pasta de sua escolha.
-
-- Executar o Jogo:
-
-Navegue até a pasta descompactada e execute o arquivo seu-jogo.exe (para Windows).
-

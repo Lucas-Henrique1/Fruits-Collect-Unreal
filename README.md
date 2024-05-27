@@ -2,7 +2,7 @@
 
  Um jogo simples onde você tem que pegar frutas e evitar as bombas pelo caminho. É fácil de jogar e perfeito para passar o tempo!
 
-°° Requisitos
+  - Requisitos
 - Unreal Engine 5.4
 - Plugins necessários:
   - ModelingToolsEditorMode
@@ -12,7 +12,7 @@
   - AppleARKitFaceSupport
   - HairStrands
 
-°° Passos para Rodar o Projeto
+  -Passos para Rodar o Projeto
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git

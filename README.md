@@ -12,7 +12,7 @@
   - AppleARKitFaceSupport
   - HairStrands
 
-  -Passos para Rodar o Projeto
+  - Passos para Rodar o Projeto
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
